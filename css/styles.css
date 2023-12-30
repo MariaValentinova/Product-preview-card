@@ -150,7 +150,7 @@ body p {
     color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width:376px) {
+@media (min-width:768px) {
 
     body {
         max-width: 1440px;
@@ -225,6 +225,6 @@ body p {
     }
 
     .card__button__icon {
-        width: 20px
+        width: 20px;
     }
 }
