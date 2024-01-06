@@ -31,6 +31,7 @@
 body {
     font-family: var(--montserrat);
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -48,6 +49,7 @@ body p {
 /*estilos tarjeta*/
 .card {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     background-color: var(--white);
     border-radius: 0.8rem;
