@@ -53,8 +53,6 @@ body p {
     flex-direction: column;
     background-color: var(--white);
     border-radius: 0.8rem;
-width: 90%;
-    height: 90%;
     max-width: 375px;
 }
 
