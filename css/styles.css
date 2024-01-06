@@ -151,7 +151,7 @@ width: 90%;
     color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width:376px) {
+@media screen and (min-width:768px) {
 
     body {
         width: 100vw;
